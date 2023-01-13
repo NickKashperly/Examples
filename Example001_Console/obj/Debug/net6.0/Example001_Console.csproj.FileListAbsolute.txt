@@ -1,0 +1,15 @@
+C:\Users\nikka\Example\Example001_Console\bin\Debug\net6.0\Example001_Console.exe
+C:\Users\nikka\Example\Example001_Console\bin\Debug\net6.0\Example001_Console.deps.json
+C:\Users\nikka\Example\Example001_Console\bin\Debug\net6.0\Example001_Console.runtimeconfig.json
+C:\Users\nikka\Example\Example001_Console\bin\Debug\net6.0\Example001_Console.dll
+C:\Users\nikka\Example\Example001_Console\bin\Debug\net6.0\Example001_Console.pdb
+C:\Users\nikka\Example\Example001_Console\obj\Debug\net6.0\Example001_Console.csproj.AssemblyReference.cache
+C:\Users\nikka\Example\Example001_Console\obj\Debug\net6.0\Example001_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikka\Example\Example001_Console\obj\Debug\net6.0\Example001_Console.AssemblyInfoInputs.cache
+C:\Users\nikka\Example\Example001_Console\obj\Debug\net6.0\Example001_Console.AssemblyInfo.cs
+C:\Users\nikka\Example\Example001_Console\obj\Debug\net6.0\Example001_Console.csproj.CoreCompileInputs.cache
+C:\Users\nikka\Example\Example001_Console\obj\Debug\net6.0\Example001_Console.dll
+C:\Users\nikka\Example\Example001_Console\obj\Debug\net6.0\refint\Example001_Console.dll
+C:\Users\nikka\Example\Example001_Console\obj\Debug\net6.0\Example001_Console.pdb
+C:\Users\nikka\Example\Example001_Console\obj\Debug\net6.0\Example001_Console.genruntimeconfig.cache
+C:\Users\nikka\Example\Example001_Console\obj\Debug\net6.0\ref\Example001_Console.dll
